@@ -1,0 +1,49 @@
+img{
+    padding: 50px;
+     width: 180px;
+     height: 180px;
+     border-radius: 180px;
+     border: 1px;
+}
+.card{
+       border: 1px dotted ;
+       display: flex;
+       width: auto;
+       background: #bbebf8;
+       color: #941515;
+       padding-left: 150px;
+       padding-top: 150px;
+       padding-right: 150px;
+       padding-bottom: 150px;
+       border-bottom: gray;
+       margin-top: 100px;
+       margin-left: 350px;
+       margin-right: 350px;
+       margin-bottom:auto;
+}
+.border blue{
+    justify-content: 50px;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    border-width: 50px;
+    border: 2px sienna;
+}
+body{
+    background-image: url(cat.jpg);
+    background-size: cove
+
+}
+input{
+    padding: auto;
+position: inherit;
+margin-top: 10px;
+margin-left: 350px;
+margin-right: 350px;
+margin-bottom:5px;
+}
+#hero{
+    
+}
